@@ -72,10 +72,14 @@ aside h2 {
 }
 
 aside img {
-    width: 250px;
+    width: 200px;
     height: auto;
     margin-bottom: 15px;
     border-radius: 8px;
+}
+
+p {
+    padding: 0;
 }
 
 footer {
